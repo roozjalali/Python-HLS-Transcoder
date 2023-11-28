@@ -1,5 +1,5 @@
-# python-hls-transcoder
-A simple HLS transcoder using AES encryption. This is
+# Important
+A simple HLS transcoder using AES encryption. This is is just a handy repo for beginners, ideally you need to add source of your original video and don't forget to provide a URL where key is stored. I'll try my best to update this repo frequently however if you have any questions, raise an issue
 
 
 ## Requirements
