@@ -3,7 +3,7 @@ A simple HLS transcoder using AES encryption. This is
 
 
 ## Requirements
-- Linux OS, recommend Ubunutu latest TLS
+- Linux OS, recommend Ubunutu latest LTS
 - Python 3.6+
 - FFMPEG
 - Virtualenv
